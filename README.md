@@ -8,7 +8,7 @@ Built this Social Proof Section using only :
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
 
 
-🔗 Github : 
+🔗 Github : https://github.com/Phyf3/Social-proof-section-page-challenge.git
 🔗 Preview site: 
 
 
